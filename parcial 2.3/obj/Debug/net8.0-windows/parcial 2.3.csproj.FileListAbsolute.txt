@@ -1,0 +1,65 @@
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.exe
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.deps.json
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.runtimeconfig.json
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.pdb
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.csproj.AssemblyReference.cache
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial_2._3.Form1.resources
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.csproj.GenerateResource.cache
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.AssemblyInfoInputs.cache
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.AssemblyInfo.cs
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.csproj.CoreCompileInputs.cache
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial .4B5C5A92.Up2Date
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\refint\parcial 2.3.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.pdb
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.genruntimeconfig.cache
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\ref\parcial 2.3.dll
+D:\Documentos\C# proyectos\Parcial 1\parcial 1\parcial 1.2\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial_2._3.Menu.resources
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.csproj.AssemblyReference.cache
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial_2._3.Form1.resources
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial_2._3.Menu.resources
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial_2._3.TransaccionesMenu.resources
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.csproj.GenerateResource.cache
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.AssemblyInfoInputs.cache
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.AssemblyInfo.cs
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.csproj.CoreCompileInputs.cache
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\refint\parcial 2.3.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.pdb
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.exe
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.deps.json
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.runtimeconfig.json
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\parcial 2.3.pdb
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial .4B5C5A92.Up2Date
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\parcial 2.3.genruntimeconfig.cache
+D:\Documentos\C# proyectos\parcial 2.3\parcial 2.3\parcial 2.3\obj\Debug\net8.0-windows\ref\parcial 2.3.dll
